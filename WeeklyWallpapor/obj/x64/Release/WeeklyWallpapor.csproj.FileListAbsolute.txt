@@ -1,0 +1,22 @@
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\x64\Release\WeeklyWallpapor.exe.config
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\x64\Release\WeeklyWallpapor.exe
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\x64\Release\WeeklyWallpapor.pdb
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.csproj.SuggestedBindingRedirects.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.Form1.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.Properties.Resources.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.app_res.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor._idle.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.csproj.GenerateResource.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.csproj.CoreCompileInputs.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.exe
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.pdb
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\x64\Release\WeeklyWallpapor.exe.manifest
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\x64\Release\WeeklyWallpapor.application
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.exe.manifest
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.application
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\x64\Release\WeeklyWallpapor.TrustInfo.xml
+C:\Users\TS\source\repos\WeeklyWallpapor\New folder\WeeklyWallpapor.exe.config
+C:\Users\TS\source\repos\WeeklyWallpapor\New folder\WeeklyWallpapor.exe.manifest
+C:\Users\TS\source\repos\WeeklyWallpapor\New folder\WeeklyWallpapor.application
+C:\Users\TS\source\repos\WeeklyWallpapor\New folder\WeeklyWallpapor.exe
+C:\Users\TS\source\repos\WeeklyWallpapor\New folder\WeeklyWallpapor.pdb

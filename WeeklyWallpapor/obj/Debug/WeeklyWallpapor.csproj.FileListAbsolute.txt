@@ -1,0 +1,12 @@
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\Debug\WeeklyWallpapor.exe.config
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\Debug\WeeklyWallpapor.exe
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\bin\Debug\WeeklyWallpapor.pdb
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.csproj.AssemblyReference.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.csproj.SuggestedBindingRedirects.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.Form1.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.Properties.Resources.resources
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.csproj.GenerateResource.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.csproj.CoreCompileInputs.cache
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.exe
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.pdb
+C:\Users\TS\source\repos\WeeklyWallpapor\WeeklyWallpapor\obj\Debug\WeeklyWallpapor.app_res.resources
